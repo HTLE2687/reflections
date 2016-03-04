@@ -26,3 +26,12 @@ a copy of someone else's repository without having to create a local copy first,
 cloning when you just want to get a local copy, and branching when you need to
 make your own changes to the code but do not want to affect everyone else who is
 still working on that body of code.
+
+
+What is hte benefit of having a copy of the last known state of the remote
+stored locally?
+
+The benefit of having a copy of the last known state of the remote stored
+locally is that we are able to compare our local copy with that instance of the
+remote without having to directly access it through the internet, letting us
+work offline if need be. 
