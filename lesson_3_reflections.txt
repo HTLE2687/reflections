@@ -28,7 +28,7 @@ make your own changes to the code but do not want to affect everyone else who is
 still working on that body of code.
 
 
-What is hte benefit of having a copy of the last known state of the remote
+What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 The benefit of having a copy of the last known state of the remote stored
@@ -43,3 +43,13 @@ what would be harder?
 Without Git or Github, I would use another software versioning/revision control
 system called TortoiseSVN. It is similar to GitHub but more GUI based so it is
 easier to learn how to use, but harder to let others see your codebase as easily.
+
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+You might want to make changes in a separate branch rather than directly in
+master when your changes are experimental and you are not sure if you want to
+put it in the main body of code yet. This allows you to freely modify the code
+without worrying about breaking existing code, but also makes it more complicated
+to merge together later.
