@@ -22,3 +22,9 @@ You can do this by putting all of the changes per logical change in the staging
 area and checking through it before committing them while leaving your other
 changes in the working directory. This allows you to commit some of the changes
 you need to do while preserving your earlier work to be checked in later.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help visualize the branch structure by showing at what point in time
+the branch diverts from the main source of code.
