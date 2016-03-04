@@ -36,3 +36,12 @@ the diagram the way we do?
 The result of merging two branches together gives us all of the changes done
 from both branches into a single branch. We represent it in this way because
 we want to be able to preserve the timeline of the commits and have their logs.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Git's automatic merging helps simplify and speed up merging two branches
+together. However, because there are things it cannot automatically merge it
+will find and request the person to manually resolve conflicts before it
+proceeds where if you merge manually you'd catch and resolve them beforehand.
