@@ -34,4 +34,12 @@ stored locally?
 The benefit of having a copy of the last known state of the remote stored
 locally is that we are able to compare our local copy with that instance of the
 remote without having to directly access it through the internet, letting us
-work offline if need be. 
+work offline if need be.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+Without Git or Github, I would use another software versioning/revision control
+system called TortoiseSVN. It is similar to GitHub but more GUI based so it is
+easier to learn how to use, but harder to let others see your codebase as easily.
