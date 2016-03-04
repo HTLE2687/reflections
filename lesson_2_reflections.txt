@@ -28,3 +28,11 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams help visualize the branch structure by showing at what point in time
 the branch diverts from the main source of code.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+The result of merging two branches together gives us all of the changes done
+from both branches into a single branch. We represent it in this way because
+we want to be able to preserve the timeline of the commits and have their logs.
