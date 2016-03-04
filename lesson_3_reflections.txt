@@ -1,1 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Using a remote repository instead of keeping all your work local lets you work on the same body of code from different computers. It also gives you an online saved copy of all your work so if something happens to the local copy it is safe and allows you to share this code with other people.
+
 
